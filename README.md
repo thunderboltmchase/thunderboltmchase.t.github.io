@@ -1,1 +1,42 @@
-# thunderboltmchase.t.github.io
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title> My First Webiste <title></title>
+    </head>
+        
+    
+        <body>
+
+            <h1>Yahtzeez page</h1>
+       
+            <p> Hello world, my name is paul</p>
+        
+            <h2> Section 1</h2>
+      
+            <p>Hello World, my name is paul</p>
+        
+        <h3>Section 1.1</h3>
+
+            <ul>
+                 <li>First item</li>
+                 <li>Second item</li>
+                  <li>Third item</li>
+            </ul>
+       
+        <h3>Section 1.2</h3>
+       
+            <p> Here's a numbered list</p>
+       
+            <ol> 
+                <li>First item</li>
+                <li>Second item</li>
+                <li>Third item</li>
+            </ol>
+    
+        <marquee> Hey look at this!</marquee>
+        <p> here is a picture of my avatar</p>
+        <img src="Yahtzeez av.PNG">
+   
+        </body>
+</html>
